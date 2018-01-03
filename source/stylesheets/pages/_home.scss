@@ -28,9 +28,9 @@
 }
 
 a.link-big {
-    border-bottom: 3px solid rgba(106,216,106,0.6);
-    -webkit-box-shadow: inset 0 -8px 0 rgba(106,216,106,0.55);
-    box-shadow: inset 0 -8px 0 rgba(106,216,106,0.55);
+    border-bottom: 3px solid rgba(0, 150, 136, 0.4);
+    -webkit-box-shadow: inset 0 -8px 0 rgba(0, 150, 136, 0.4);
+    box-shadow: inset 0 -8px 0 rgba(0, 150, 136, 0.4);
     -webkit-transition: background .2s ease;
     transition: background .2s ease;
     height: 31px;
@@ -132,9 +132,9 @@ img {
 
 
   .feature-body a {
-    border-bottom: 3px solid rgba(106,216,106,0.6);
-    -webkit-box-shadow: inset 0 -5px 0 rgba(106,216,106,0.38);
-    box-shadow: inset 0 -5px 0 rgba(106,216,106,0.38);
+    border-bottom: 3px solid rgba(0, 150, 136, 0.4);
+    -webkit-box-shadow: inset 0 -5px 0 rgba(0, 150, 136, 0.4);
+    box-shadow: inset 0 -5px 0 rgba(0, 150, 136, 0.4);
     -webkit-transition: background .2s ease;
     transition: background .2s ease;
     height: 20px;
@@ -155,6 +155,7 @@ img {
     border-radius: 4px;
     margin: 20px 50px;
     min-width: 300px;
+    min-height: 333px;
 }
 
 .wrapper-grey {
@@ -669,9 +670,9 @@ a {
 }
 
 .feature-body a {
-  border-bottom: 3px solid rgba(106,216,106,0.6);
-  -webkit-box-shadow: inset 0 -5px 0 rgba(106,216,106,0.38);
-  box-shadow: inset 0 -5px 0 rgba(106,216,106,0.38);
+  border-bottom: 3px solid rgba(0, 150, 136, 0.4);
+  -webkit-box-shadow: inset 0 -5px 0 rgba(0, 150, 136, 0.4);
+  box-shadow: inset 0 -5px 0 rgba(0, 150, 136, 0.4);
   height: 20px;
   display: inline-block;
 }
